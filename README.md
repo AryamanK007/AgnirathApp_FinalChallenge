@@ -1,7 +1,8 @@
 # AgnirathApp_FinalChallenge
 Aryaman Kashyap [AM25B005]
 
-System Architecture:
+**System Architecture:**
+
 Processor:	AMD Ryzen 7 8845HS w/ Radeon 780M Graphics (3.80 GHz)
 
 Installed RAM:	16.0 GB (15.3 GB usable)
