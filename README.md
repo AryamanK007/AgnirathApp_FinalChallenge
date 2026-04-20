@@ -3,10 +3,14 @@ Aryaman Kashyap [AM25B005]
 
 System Architecture:
 Processor:	AMD Ryzen 7 8845HS w/ Radeon 780M Graphics (3.80 GHz)
+
 Installed RAM:	16.0 GB (15.3 GB usable)
+
 Graphics card:	NVIDIA GeForce RTX 4050 Laptop GPU (6 GB)
                 AMD Radeon(TM) Graphics (417 MB)
+                
 Storage	180 GB of 477 GB used
+
 System type	64-bit operating system, x64-based processor
 
 Procedure:
